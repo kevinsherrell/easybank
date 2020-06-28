@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a39c56c8-e912-4cff-b92c-05f13a54739d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592845147758</updated>
       <workItem from="1592845150415" duration="745000" />
-      <workItem from="1593165390182" duration="3277000" />
+      <workItem from="1593165390182" duration="8591000" />
+      <workItem from="1593292970596" duration="8840000" />
     </task>
     <servers />
   </component>
@@ -43,6 +45,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="629" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593171111686">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="629" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1593171111686" />
     <state x="625" y="258" key="search.everywhere.popup" timestamp="1593168493632">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
